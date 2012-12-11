@@ -1,2 +1,1 @@
-ILS-Tech
-========
+Go to https://github.com/NYULibraries/ILS-Tech/wiki/Agenda
